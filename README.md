@@ -1,1 +1,1 @@
-# plutus-pioneers-course
+# Plutus Pioneers Course
